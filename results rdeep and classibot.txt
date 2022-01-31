@@ -1,0 +1,6 @@
+python3 tournament.py -p rdeep,classibot -r 5000
+Results:
+    bot <bots.rdeep.rdeep.Bot object at 0x00000227F2282340>: 8470 points
+    bot <bots.rdeep.rdeep.Bot object at 0x00000227F2282340>: 1150 GAMES
+    bot <bots.classibot.classibot.Bot object at 0x00000227F2282370>: 7005 points
+    bot <bots.classibot.classibot.Bot object at 0x00000227F2282370>: 945 GAMES

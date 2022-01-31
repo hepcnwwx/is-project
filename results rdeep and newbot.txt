@@ -1,0 +1,7 @@
+bartosmark@Bartoss-MacBook-Air schnapsen-master % python3 tournament.py -p rdeep,newbot -r 5000
+Results:
+    bot <bots.rdeep.rdeep.Bot object at 0x7f95b1035250>: 3531 points
+    bot <bots.rdeep.rdeep.Bot object at 0x7f95b1035250>: 478 GAMES
+    bot <bots.newbot.newbot.Bot object at 0x7f95b1035280>: 4039 points
+    bot <bots.newbot.newbot.Bot object at 0x7f95b1035280>: 547 GAMES
+

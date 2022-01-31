@@ -1,0 +1,6 @@
+bartosmark@Bartoss-MacBook-Air schnapsen-master % python3 tournament.py -p rdeep,projectbot -r 5000
+Results:
+    bot <bots.rdeep.rdeep.Bot object at 0x7fea938fe250>: 4534 points
+    bot <bots.rdeep.rdeep.Bot object at 0x7fea938fe250>: 614 GAMES
+    bot <bots.projectbot.projectbot.Bot object at 0x7fea938fe280>: 2857 points
+    bot <bots.projectbot.projectbot.Bot object at 0x7fea938fe280>: 384 GAMES
